@@ -1,5 +1,5 @@
 # **FasterUtil**
-##### A collection/guide of fast **java** utility classes.
+A collection/guide of fast **java** utility classes.
   
 | Name | Description |
 | ------------- |:-------------:|
